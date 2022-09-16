@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'SDSamliphopangche_Outline';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Outline.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.App {
+  font-family: 'SDSamliphopangche_Outline';
+  text-align: center;
+  justify-content: center;
+  /* align-items: center; */
+  color :white;
+  background-color: #282c34;
+
+  /* 헤더 멀어진 부분 문제 해결 */
+  padding-top: 75px;
+
+  /* background-attachment: fixed;
+  background-size: cover;
+  background-size: 100%;
+  background-position: center;  */
+
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}

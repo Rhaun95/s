@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cff8b66c-cd19-4c3d-90c7-efadf36b1fcd" name="Changes" comment="ThunderInsert_Images DB추가&#10;Thunder Location column추가">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2dfdbcba-b04f-4fad-9705-4e2c734fbb40.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2dfdbcba-b04f-4fad-9705-4e2c734fbb40.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo" beforeDir="false" afterPath="$PROJECT_DIR$/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/front/my-app" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/demo">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/demo" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/demo" value="e7bd86d5f61f0e3dc70202846e2c2769cdd16dd1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/demo" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c6969077-35c0-477f-a699-a2e5476099af" />
+        <option name="url" value="https://github.com/Rhaun95/DreamBox.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ERJqNAqplAoj1AuOJ2uQpZgHOJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/kosmo/Desktop/김수현김수현김수현김수현/DreamMV",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "9de0862494cc3aa211be7c76dc6b547b"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kosmo\Desktop\김수현김수현김수현김수현\DreamMV\DreamMV\demo\src\main\resources\com\example\demo\Mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kosmo\Desktop\김수현김수현김수현김수현\DreamMV\DreamMV\demo\src\main\resources\com\example\demo\Mapper" />
+      <recent name="C:\Users\kosmo\Desktop\김수현김수현김수현김수현\DreamMV\DreamMV\demo\src\main\java\com\example\demo\VO" />
+      <recent name="C:\Users\kosmo\Desktop\김수현김수현김수현김수현\DreamMV\DreamMV\demo\src\main\java\com\example\demo\Service" />
+      <recent name="C:\Users\kosmo\Desktop\김수현김수현김수현김수현\DreamMV\DreamMV\demo\src\main\java\com\example\demo\Mapper" />
+      <recent name="C:\Users\kosmo\Desktop\김수현김수현김수현김수현\DreamMV\DreamMV\demo\src\main\java\com\example\demo\Controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.Controller" />
+      <recent name="com.example.demo.Service" />
+      <recent name="com.example.demo.Mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="Tests in 'demo'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/demo" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DreamMV" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DreamMV" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'demo'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringRepositoriesView">
+    <option name="searchInLibraries" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cff8b66c-cd19-4c3d-90c7-efadf36b1fcd" name="Changes" comment="" />
+      <created>1662552652629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662552652629</updated>
+      <workItem from="1662552655030" duration="247000" />
+      <workItem from="1662552929456" duration="2651000" />
+      <workItem from="1662555602140" duration="285000" />
+      <workItem from="1662556085710" duration="2376000" />
+      <workItem from="1662684647583" duration="10125000" />
+      <workItem from="1662724626495" duration="41000" />
+      <workItem from="1662724697455" duration="795000" />
+      <workItem from="1662726341049" duration="1081000" />
+      <workItem from="1662964584890" duration="17407000" />
+      <workItem from="1662991488678" duration="1075000" />
+      <workItem from="1663029509132" duration="7683000" />
+      <workItem from="1663116095903" duration="6897000" />
+      <workItem from="1663142018652" duration="22000" />
+      <workItem from="1663142192266" duration="11000" />
+      <workItem from="1663291520932" duration="3000" />
+      <workItem from="1663292019873" duration="21000" />
+    </task>
+    <task id="LOCAL-00001" summary="ThunderInsert_Images DB추가&#10;Thunder Location column추가">
+      <created>1662991260423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662991260423</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ThunderInsert_Images DB추가&#10;Thunder Location column추가">
+      <created>1662991712411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662991712411</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ThunderInsert_Images DB추가&#10;Thunder Location column추가">
+      <created>1662991827102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662991827102</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="v1.1" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ThunderInsert_Images DB추가&#10;Thunder Location column추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="ThunderInsert_Images DB추가&#10;Thunder Location column추가" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo$Tests_in__demo_.ic" NAME="Tests in 'demo' Coverage Results" MODIFIED="1662553115816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

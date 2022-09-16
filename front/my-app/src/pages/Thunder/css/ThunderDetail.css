@@ -1,0 +1,59 @@
+
+
+.thunderDetail_all{
+  font: 500;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: antiquewhite;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  height: 100vh;  
+  margin-top: 80px;
+
+} 
+.thunderDetail_top{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 1000px;
+
+  margin-top: 120px;
+
+}
+
+.thunderDetail_top1{
+  font-size: 50px;
+  font-weight: 700;
+  font-family: 'Jeju Gothic', sans-serif;
+  color: rgb(55, 142, 145);
+
+  padding: 30px;
+}
+
+.thunderDetail {
+  display: block;
+
+  width: 1000px;
+  height: 1000px;
+
+  margin: 30px;
+  padding: 30px;
+
+  font-size: 20px;
+  font-family: 'Hanna', sans-serif;
+  font-weight: 600;
+
+  border-top: 3px solid rgb(199, 158, 158);
+  border-bottom: 3px solid rgb(199, 158, 158);
+  
+}
+.thunderDetail_bottom_btn{
+  margin: 20px;
+  padding: 8px 10px 8px 10px;
+}

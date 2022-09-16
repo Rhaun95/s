@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.board_wrap {
+    width: 1500px;
+    margin: 150px auto;
+    /* color:#dddddd;*/
+}
+
+
+.board_title {
+    margin-bottom: 20px;
+}
+
+.board_title strong {
+    font-size: 3rem;
+}
+
+.board_title p {
+    margin-top: 5px;
+    font-size: 1.4rem;
+}
+.board_list {
+    width: 100%;
+    /* border-top: 3px solid #adb5bd;*/
+    align-items: center;
+    /* border-bottom: 3px solid #000;*/
+}
+
+
+
+
+/*.board_list > div> div.map:last-child {
+    border-bottom: none
+}*/
+
+
+/* .board_list > div > div.map {
+    display: inline-block;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 1.1rem;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #adb5bd;
+    padding:10px;
+} */
+
+
+/* .board_list > top  {
+    font-weight: 400;
+}
+
+.board_list > div >div.map > title:hover {
+    color: skyblue;
+}
+
+
+.board_list .type {
+    width: 15%;
+    text-align: center;
+
+}
+
+.board_list .title {
+    width: 45%;
+    text-align: left;
+    padding-left: 15px
+
+}
+
+.board_list > div > div.map .title:hover {
+    color: skyblue;
+}
+
+
+.board_list .user_id {
+    width: 35%;
+    vertical-align: middle;
+    text-align: center
+}
+
+.board_list .regDate {
+    width: 30%;
+    text-align: center
+}
+
+.board_list .hit {
+    width: 10%;
+    text-align: center;
+}
+
+.btn2_rv{
+    position: relative;
+    left:1300px;
+    bottom: 0px;
+    display: inline-block;
+    min-width: 80px;
+    min-height: 30px;
+    margin-left: 15px;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #000;
+    border-radius: 4px;
+    font-size: 1.1rem;
+    text-align: center;
+    background: ghostwhite;
+    } */
+
+.btn2{
+    position: relative;
+    left:1400px;
+    bottom: 0px;
+    display: inline-block;
+    min-width: 80px;
+    min-height: 30px;
+    margin-left: 15px;
+    padding: 8px;
+    border: 1px solid #000;
+    border-radius: 4px;
+    font-size: 1.1rem;
+    text-align: center;
+    background:#adb5bd;
+    color: #495057;}
+
+.page-link{
+    position: relative;
+    bottom:30px;
+}

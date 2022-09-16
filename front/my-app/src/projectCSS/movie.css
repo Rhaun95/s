@@ -1,0 +1,124 @@
+.temp{
+  
+}
+.noScrollPage{
+  height: 100vh;
+}
+.nonedeco { 
+  text-decoration-line: 'none';
+}
+
+.sht{
+  max-width: calc(100% - 38px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box; 
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+
+}
+.posterBox{
+  height : 50vh;
+  width: 35vh;
+  margin : 0.8em;
+  border : 10px solid gray;
+}
+.posterApiBox{
+  height : 30vh;
+  width: 20vh;
+  margin : 0.8em;
+  border : 10px solid gray;
+}
+
+
+.stillBox{
+  height: 30vh;
+  width: 30vh;
+}
+
+.cardImage {
+  height : 30vh;
+  width: 25vh;
+}
+
+.cardText {
+  background-color: rgb(43, 37, 37);
+  color: white;
+}
+
+.cardBox { 
+   width: '20rem';
+   display: 'inline-block';
+   margin : '1em'; 
+   padding : '1em';
+}
+
+.header{
+  z-index: 2; /*header 항상 위로 보이게*/
+  position : fixed;
+  top : 0;
+  left : 0;
+  right : 0;
+  height: 5%;
+}
+
+.headerItem{
+  position: relative;
+  top : 0;
+  left : 0;
+  right : 0;
+  height: 5%;
+}
+
+.searchBox{
+  position : fixed;
+  left : 1;
+  right : 1; 
+  overflow: auto ;
+  height : 90vh;
+  z-index : -1;
+}
+
+
+
+
+
+
+  
+.form-floating {
+  color:black;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="text"] {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {  
+  margin-bottom: 30px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.form-signin input[type="nickname"] {  
+  margin-bottom: 30px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.loginForm{
+  border : 4px solid gray;
+  padding : 5px;
+  background-image : url(https://www.suto.co.kr/comment_uploader/uploads/free/ailings_104180_HIBWiZ.gif);
+}
